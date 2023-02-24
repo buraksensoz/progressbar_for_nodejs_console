@@ -1,0 +1,16 @@
+{
+  "name": "progressbar_for_nodejs_console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "console-progress-bar": "^1.0.8",
+    "promise": "^8.3.0"
+  }
+}
